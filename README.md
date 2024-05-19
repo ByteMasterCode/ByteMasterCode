@@ -1,20 +1,20 @@
-# Привет, я Farukh Pulatov! 👋
+# Hi, I'm Farukh Pulatov! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ByteMasterCode&color=blue)
 
-## 🚀 Обо мне
+## 🚀 About Me
 
-- 🔭 Я занимаюсь разработкой мобильных приложений для Android и iOS на базе Flutter, а также на нативных Java и Swift.
-- 🎮 Создаю игры на базе Unity 3D.
-- 🌐 Разрабатываю веб-сайты на Laravel, Express.js и Golang.
-- 💻 Занимаюсь фронтенд-разработкой на базе HTML5, CSS3, React.js, Tailwind CSS, Ant Design, и других JavaScript технологий.
-- 🏢 Основатель компании **InfinityStream**.
-- 🛠️ Специализируюсь на создании больших CRM-систем и бэкендов для игр.
-- ⚙️ Настраиваю серверы и занимаюсь DevOps.
+- 🔭 I specialize in developing mobile applications for Android and iOS using Flutter, as well as native Java and Swift.
+- 🎮 I create games using Unity 3D.
+- 🌐 I develop websites with Laravel, Express.js, and Golang.
+- 💻 I focus on frontend development using HTML5, CSS3, React.js, Tailwind CSS, Ant Design, and other JavaScript technologies.
+- 🏢 Founder of **InfinityStream**.
+- 🛠️ I build large-scale CRM systems and backend servers for games.
+- ⚙️ Server setup and DevOps.
 
-## 🛠️ Мои навыки
+## 🛠️ My Skills
 
-### Языки программирования
+### Programming Languages
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -26,7 +26,7 @@
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
 
-### Фреймворки и библиотеки
+### Frameworks and Libraries
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -36,20 +36,22 @@
 ![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Grammy](https://img.shields.io/badge/Grammy-%231ADAFF.svg?style=for-the-badge&logo=grammy&logoColor=white)
 
-## 📊 Статистика GitHub
+## 📊 GitHub Stats
 
 ![Farukh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByteMasterCode&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteMasterCode&layout=compact&theme=radical)
 
-## 🌐 Социальные сети
+## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
 [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your-profile)
 
-## 🏆 Трофеи
+## 🏆 Trophies
 
 ![GitHub trophies](https://github-profile-trophy.vercel.app/?username=ByteMasterCode&theme=radical)
 
-## 🔗 Репозитории
+## 📂 Featured Repositories
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteMasterCode&layout=compact&theme=radical)](https://github.com/ByteMasterCode/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ByteMasterCode&repo=repository-name&theme=radical)](https://github.com/ByteMasterCode/repository-name)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ByteMasterCode&repo=repository-name&theme=radical)](https://github.com/ByteMasterCode/repository-name)
