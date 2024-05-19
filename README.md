@@ -53,5 +53,3 @@
 
 ## 📂 Featured Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ByteMasterCode&repo=repository-name&theme=radical)](https://github.com/ByteMasterCode/repository-name)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ByteMasterCode&repo=repository-name&theme=radical)](https://github.com/ByteMasterCode/repository-name)
